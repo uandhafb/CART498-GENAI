@@ -1,0 +1,1 @@
+prompt = "collage style, gravity-defying Escher's staircases, a flower head and medieval monk tunic torso climbing the stairs, blue tones."

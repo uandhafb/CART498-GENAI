@@ -1,0 +1,1 @@
+prompt = "collage style, gravity-defying Escher's staircases, a knight riding a hand made of lilies flowers, going upside down the stairs, green tones."

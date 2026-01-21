@@ -1,0 +1,1 @@
+prompt = "collage style, gravity-defying Escher's staircases red tones, a medieval cat with human face and a lavender flower tails, going down the stairs."
